@@ -1,0 +1,1 @@
+Do not use temporary SVG specimen images; the website should display the original isometric specimen images.
